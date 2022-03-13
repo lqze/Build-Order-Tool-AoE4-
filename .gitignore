@@ -67,3 +67,7 @@ node_modules/
 public/img/
 firebase.json
 .firebaserc
+
+# VSCode
+
+.vscode/
